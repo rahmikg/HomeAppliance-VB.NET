@@ -1,0 +1,14 @@
+﻿Refrigerator
+2.5
+TV
+2.0
+Space Heater
+1.2
+Fan
+1.4
+Washer
+2.2
+Dryer
+1.8
+Oven
+1.6
